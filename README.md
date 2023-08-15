@@ -29,7 +29,7 @@ Our app aims to make stress management accessible to everyone, helping people a
 
 ## Getting Started
 ### 1) Clone & Install Dependencies
-* 1.1) git clone     ``https://github.com/uoa-compsci399-s1-2023/Project-Team-2.git``
+* 1.1) git clone     ``https://github.com/dawnaliens/InnerPeace.git``
 * 1.2) cd ``Dhyana`` - cd into your newly created project directory.
 * 1.3) Install NPM packages with your package manager of choice - i.e run ``yarn`` or ``npm install``
 * 1.4) [iOS] ``cd ios`` and ``run pod install`` - if you don't have CocoaPods you can follow these instructions to install it.
@@ -102,5 +102,4 @@ Dhyana is still under development. More functions and features are going to be a
 Dhyana was previously a reinforcement meditation application based on IPAPP. You can check out the branch priv for more detail. 
 Team 2 member: Gavin Weng(Full Stack), Annan Zhang(Front-end), Rechard Liu(Back-end), Isabel Zhang(Front-end), Amy Zhang(UI Design), Teddy Sun(Source maker and app Tester)
 We would like to thank Asma and Allan, Auckland University for providing such an excellent CS research project.
-
 
